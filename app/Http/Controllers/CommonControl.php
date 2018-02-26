@@ -9,6 +9,6 @@ class CommonControl extends Controller
     //
     public function home()
     {
-      echo "halaman pertama";
+      echo "halaman pertamaa";
     }
 }
